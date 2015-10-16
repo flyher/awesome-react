@@ -6,7 +6,7 @@
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
-  - [React Community](#react-community)
+  - [React Community](#React 社区)
   - [React Online Playground](#react-online-playground)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)

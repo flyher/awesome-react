@@ -160,30 +160,30 @@
 * [该怎么码 React？使用这些工具创建一个基础应用](https://github.com/foundersandcoders/begin_react_workshop)
 * [React 中文文档](http://reactjs.cn/)
 
-##### Isomorphic Apps
+##### 同构应用(使用 React 创建的小应用)
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 
-##### Building robust web apps with React
-* [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
-* [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
-* [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
-* [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+##### 使用 React 创建健壮的网页应用
+* [使用 React 创建健壮的网页应用: 第一章](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
+* [使用 React 创建健壮的网页应用: 第二章](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
+* [使用 React 创建健壮的网页应用: 第三章](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
+* [使用 React 创建健壮的网页应用: 第四章](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 
-##### Comprehensive Guide to Building Apps with React
-* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-* [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
-* [Part 3 - Architecting React.js Apps with Flux](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
+##### 用 React 创建应用综合指南
+* [Part 1 - 用 React 创建应用综合指南](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* [Part 2 - 用 Gulp 和 Browserify 创建 React 应用](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
+* [Part 3 - 用 Flux 架构 React.js 应用](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
 
-##### Scotch.io React tutorials series
-* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
-* [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
-* [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
+##### Scotch.io React 系列教程
+* [学习 React.js: 入门和概念](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [使用 Node 和 React.js 创建实时性 Twitter 数据流](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+* [开始认识 Flux ， React.js的结构](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+* [使用 React.js 和 Flux 创建一个简单的购物车](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
-##### React styling
-* [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
+##### React 样式
+* [React: JS 中的 CSS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 * [Radium](https://github.com/FormidableLabs/radium)
 * [jsxstyle](https://github.com/petehunt/jsxstyle)
 * [React Style](https://github.com/js-next/react-style)

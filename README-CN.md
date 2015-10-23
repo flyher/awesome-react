@@ -194,9 +194,9 @@
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 * [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
 
-##### React Charts Tutorials
-* [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
-* [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
+##### React 图形教程
+* [在 React 应用中配合 D3.js 实现可视化](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
+* [D3 和 React - 未来的图形组件?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)

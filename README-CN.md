@@ -147,7 +147,7 @@
 * [React 案例：Mailbox](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
 * [一个例子解释 React 中 Mixins](http://simblestudios.com/blog/development/react-mixins-by-example.html)
 * [最佳实践：创建大型 React 应用](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
-* [一个基于 HTML5 拖拽排序的 React 插件 A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
+* [一个基于 HTML5 拖拽接口的 React 排序插件](http://webcloud.se/sortable-list-component-react-js/)
 * [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
 * [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
 * [React Components for Cat Videos](http://davidandsuzi.com/react-components-for-cat-videos/)

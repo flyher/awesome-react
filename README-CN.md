@@ -198,11 +198,11 @@
 * [在 React 应用中配合 D3.js 实现可视化](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 和 React - 未来的图形组件?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
-##### React and Backbone
-* [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
+##### React 与 Backbone
+* [像使用 Backbone 视图一样使用 React 组件](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
 
-##### React and Angular
+##### React 与 Angular
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
 * [ng-React Update - React 0.9 and Angular Track By](http://davidandsuzi.com/ngreact-update/)
 * [Using React for Faster Renders and Isomosphism in Angular](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)

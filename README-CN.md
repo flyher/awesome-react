@@ -156,7 +156,7 @@
 * [拖拽接口的前景](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 * [如游戏开发者般码 React](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [React 生态导航](http://www.toptal.com/react/navigating-the-react-ecosystem)
-* [给了解 Jquery 的人一些关于 React.js 的介绍](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [给熟悉 Jquery 的人一个 React.js 留言板的案例(译者注：推荐)](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [该怎么码 React？使用这些工具创建一个基础应用](https://github.com/foundersandcoders/begin_react_workshop)
 * [React 中文文档](http://reactjs.cn/)
 
@@ -203,7 +203,7 @@
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
 
 ##### React 与 Angular
-* [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
+* [NgReact - 在 Angular 中使用 React 组件](http://davidandsuzi.com/ngreact-react-components-in-angular/)
 * [ng-React Update - React 0.9 and Angular Track By](http://davidandsuzi.com/ngreact-update/)
 * [Using React for Faster Renders and Isomosphism in Angular](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
 * [Faster AngularJS Rendering](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
@@ -211,7 +211,7 @@
 * [How can React and Flux help us create better Angular applications?](https://medium.com/@gilbox/how-can-react-and-flux-help-us-create-better-stronger-faster-angular-applications-639247898fb)
 * [Achieving Reasonable and Scalable Routing in AngularJS with Flux](https://medium.com/@gilbox/achieving-reasonable-and-scalable-routing-in-angularjs-with-flux-2655e06cd5ee)
 
-##### React and Bootstrap
+##### React 与 Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
 * [A mixin-based design for a React.js Bootstrap component library](http://clozeit.wordpress.com/2014/01/08/13/)
 * [Popover mixin](http://clozeit.wordpress.com/2014/01/09/popover-mixin/)

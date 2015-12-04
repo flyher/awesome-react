@@ -1,4 +1,4 @@
-### ** 令人敬畏的React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+### 令人敬畏的React [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 收集React的系列文章
@@ -95,7 +95,7 @@
 > 一个用于创建用户界面的JavaScript库
 
 #### React 基础资料
-* [React官方站(http://facebook.github.io/react/)
+* [React官方站](http://facebook.github.io/react/)
 * [React的GitHub](https://github.com/facebook/react)
 
 #### React 社区

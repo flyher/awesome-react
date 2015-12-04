@@ -156,7 +156,7 @@
 * [拖拽接口的前景](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 * [如游戏开发者般码 React](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [React 生态导航](http://www.toptal.com/react/navigating-the-react-ecosystem)
-* [给熟悉 Jquery 的人一个 React.js 留言板的案例(译者注：推荐)](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [给熟悉 Jquery 的人一个 React.js 留言板的案例(注：推荐)](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [该怎么码 React？使用这些工具创建一个基础应用](https://github.com/foundersandcoders/begin_react_workshop)
 * [React 中文文档](http://reactjs.cn/)
 
@@ -191,7 +191,7 @@
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
 * [React Easy Style](https://github.com/maxguzenski/react-easy-style)
-* [React: CSS 在 JS 中技能对比](https://github.com/MicheleBertoli/css-in-js)
+* [React: CSS 在 JS 中技能对比(注:视频)](https://github.com/MicheleBertoli/css-in-js)
 * [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
 
 ##### React 图形教程

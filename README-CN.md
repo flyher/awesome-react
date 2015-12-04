@@ -183,7 +183,7 @@
 * [使用 React.js 和 Flux 创建一个简单的购物车](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
 ##### React 样式
-* [React: JS 中的 CSS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
+* [React: JS 中的 CSS(注:视频)](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 * [Radium](https://github.com/FormidableLabs/radium)
 * [jsxstyle](https://github.com/petehunt/jsxstyle)
 * [React Style](https://github.com/js-next/react-style)
@@ -191,7 +191,7 @@
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
 * [React Easy Style](https://github.com/maxguzenski/react-easy-style)
-* [React: CSS 在 JS 中技能对比(注:视频)](https://github.com/MicheleBertoli/css-in-js)
+* [React: CSS 在 JS 中技能对比](https://github.com/MicheleBertoli/css-in-js)
 * [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
 
 ##### React 图形教程

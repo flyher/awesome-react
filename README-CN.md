@@ -191,7 +191,7 @@
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
 * [React Easy Style](https://github.com/maxguzenski/react-easy-style)
-* [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+* [React: CSS 在 JS 中技能对比](https://github.com/MicheleBertoli/css-in-js)
 * [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
 
 ##### React 图形教程
